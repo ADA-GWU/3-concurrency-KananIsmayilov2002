@@ -13,7 +13,7 @@ For running codes written in Java, Java Development Kit should be installed.
 
 https://www.oracle.com/java/technologies/downloads/#jdk21-windows
 
-After installation, open the terminal and run the command "javac -version", If you can see the Java version, you can check to continue.
+After installation, open the terminal and run the command "javac -version", If you can see the Java version, everything is ok.
 ## Instructions
 
 **Clone Repository**:
