@@ -7,7 +7,7 @@ public class ImageUtils {
 
     public static BufferedImage scaleImage(BufferedImage img, double maxWidth, double maxHeight) {
 
-        // Trying to maintain aspect ratio
+        // Trying to maintian aspect ratio
         double scaleFactor = Math.min(1d, Math.min(maxWidth / img.getWidth(), maxHeight / img.getHeight()));
 
         // New dimentions

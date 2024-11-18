@@ -40,7 +40,7 @@ public class ImagePixelizer {
         });
     }
 
-    // Useing scaleImage() from utils to scale the image
+    // Using scaleImage() from utils to scale the image
     private BufferedImage scaleImage(BufferedImage img) {
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
         double maxWidth = screenSize.getWidth() - 50;
@@ -148,7 +148,7 @@ public class ImagePixelizer {
             }
         }
 
-        // Updatin scaled image
+        // Updating scaled image
         Graphics2D g2d = scaledImage.createGraphics();
         g2d.drawImage(originalImage, 0, 0, scaledImage.getWidth(), scaledImage.getHeight(), null);
         g2d.dispose();
