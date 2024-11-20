@@ -29,7 +29,7 @@ javac Main.java
 ```
 Input format should be: java Main.java "filename" "square size" "processing mode". For example
 ```
-java Main images\nature.png 20 M
+java Main images\moon.jpg 20 M
 ```
 ## Result
 
