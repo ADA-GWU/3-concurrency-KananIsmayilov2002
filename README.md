@@ -31,7 +31,7 @@ Input format should be: java Main.java "filename" "square size" "processing mode
 ```
 java Main images\nature.png 20 M
 ```
-## Example
+## Result
 
 ![image](https://github.com/user-attachments/assets/0e592199-fe03-40b6-aa2c-f8c1cc789556)   ![result](https://github.com/user-attachments/assets/ad0f6f9c-c8ba-4985-bde5-56b8a704955a)
 
