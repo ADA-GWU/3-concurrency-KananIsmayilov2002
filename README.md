@@ -29,8 +29,12 @@ javac Main.java
 ```
 Input format should be: java Main.java "filename" "square size" "processing mode". For example
 ```
-java Main images\JH_profile.jpg 20 M
+java Main images\moon.jpg 20 M
 ```
+## Result
+
+![moon](https://github.com/user-attachments/assets/29b3486e-36b6-4f96-8e75-9f29a83f9e7a)    ![result](https://github.com/user-attachments/assets/900f917d-1ee1-480a-bba5-d13b149ce696)
+
 
 
 
