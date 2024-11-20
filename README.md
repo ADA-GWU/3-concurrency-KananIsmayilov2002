@@ -33,7 +33,9 @@ java Main images\nature.png 20 M
 ```
 ## Result
 
-![image](https://github.com/user-attachments/assets/0e592199-fe03-40b6-aa2c-f8c1cc789556)   ![result](https://github.com/user-attachments/assets/ad0f6f9c-c8ba-4985-bde5-56b8a704955a)
+![moon](https://github.com/user-attachments/assets/29b3486e-36b6-4f96-8e75-9f29a83f9e7a)    ![result](https://github.com/user-attachments/assets/900f917d-1ee1-480a-bba5-d13b149ce696)
+
+
 
 
 
